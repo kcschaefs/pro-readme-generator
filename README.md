@@ -1,5 +1,7 @@
 # Professional README Generator
 
+The code generated README is located in the "output" folder on this repo.
+
 ![Screenshot of final page](./assets/Screenshot%20at%20Jan%2023%2017-28-58.png)
 
 ## User Story
