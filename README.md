@@ -2,6 +2,8 @@
 
 The code generated README is located in the "output" folder on this repo.
 
+[Link to video](https://drive.google.com/file/d/1Zi25oV2Z7uoY4SZ7ftWQAjxP2J4HILAs/view?usp=share_link)
+
 ![Screenshot of final page](./assets/Screenshot%20at%20Jan%2023%2017-28-58.png)
 
 ## User Story
